@@ -5,6 +5,6 @@ setup(
     packages=find_packages(),
     version='0.1.0',
     description='causal inference for dynamics system modeling',
-    author='XueLandWangJX',
+    author='Liang Xue, Jiaxuan Wang',
     license='MIT',
 )
