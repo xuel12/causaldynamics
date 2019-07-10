@@ -1,6 +1,3 @@
-causalDynamics
-==============================
-
 causal inference for dynamics system modeling
 
 Project Organization
