@@ -1,5 +1,15 @@
 causal inference for dynamics system modeling
 
+Before using, 
+
+```
+# create virtual environment
+virtualenv venv
+source venv/bin/activate
+# install packages
+pip install -r requirements.txt
+```
+
 Project Organization
 ------------
 
